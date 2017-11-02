@@ -4,7 +4,7 @@
 BDIR = Build
 SDIR = Source
 
-EXECUTABLE = $(BDIR)/Paginacao
+EXECUTABLE = $(BDIR)/Paging
 
 SOURCES = $(wildcard $(SDIR)/*.cpp)
 
